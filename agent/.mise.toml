@@ -1,6 +1,6 @@
 [tools]
-python = '3.13.2'
-uv = "0.7.13"
+python = '3.13.9'
+uv = "0.9.9"
 
 [env]
 DEBUG = "0"

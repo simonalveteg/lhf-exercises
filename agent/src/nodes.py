@@ -97,7 +97,7 @@ class LLMQueryNode(Node):
         # Make the LLM call
         result, cost = call_llm(model_name=prep_data["model_name"], prompt=prompt)
 
-        return {"response": result.lower(), "cost": cost}
+        return {"response": result.lower().strip("'").strip('"'), "cost": cost}
 
     def post(self, shared, prep_res, exec_res):
         # Store the category in shared store

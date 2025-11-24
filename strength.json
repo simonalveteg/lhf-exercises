@@ -6282,5 +6282,22 @@
       "Continue for your desired number of repetitions, alternating legs with each lunge."
     ],
     "notes": ""
+  },
+  {
+    "pk": "49f9a136-368c-4b5d-9038-1811a479b1c3",
+    "name": "Hand-Release Push-Up",
+    "slug": "hand-release-push-up",
+    "primaryMuscles": ["chest", "tricep"],
+    "secondaryMuscles": ["abdominal", "shoulder - front"],
+    "steps": [
+      "Assume the prone position with your body lying face-down on the ground. Place your hands flat on the ground, pointer fingers inside the outer edges of the shoulders. This is your starting position.",
+      "Push your whole body up from the ground as a single unit to the up position by fully extending the elbows.",
+      "Maintain a straight body alignment from the top of the head to the ankles throughout the movement.",
+      "Bend your elbows to lower your body all the way to the ground, ensuring chest, hips, and thighs touch down at the same time.",
+      "Lift your hands off the ground. Without moving the head, body, or legs, fully extend both arms into the T position until the arms are straight out to the side.",
+      "Immediately move your hands back on the ground to return to the starting position.",
+      "Repeat the movement for your desired number of repetitions."
+    ],
+    "notes": ""
   }
 ]
