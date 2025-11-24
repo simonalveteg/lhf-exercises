@@ -92,7 +92,7 @@ class LLMQueryNode(Node):
 
     def exec(self, prep_data):
         # Build the prompt
-        prompt = f"Analyze this exercise name and description. Categorize the exercise as only one of these options: 'strength', 'cardio', or 'flexibility'. Return only the option: {prep_data['query']}"
+        prompt = f"Analyze this exercise name and description. Categorize the exercise as only one of these options: 'strength', 'cardio', or 'flexibility'. Return only the single-word categorization. Exercise details follow: {prep_data['query']}"
 
         # Make the LLM call
         result, cost = call_llm(model_name=prep_data["model_name"], prompt=prompt)
