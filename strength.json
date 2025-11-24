@@ -5762,8 +5762,8 @@
     "pk": "9a3d7102-c171-4532-8173-a34a3834493d",
     "name": "Stability Ball Pullover \u2013 Dumbbell",
     "slug": "stability-ball-pullover-dumbbell",
-    "primaryMuscles": ["chest", "lat"],
-    "secondaryMuscles": ["abdominal", "tricep"],
+    "primaryMuscles": ["chest", "lat", "tricep"],
+    "secondaryMuscles": ["abdominal", "rotator cuff - back", "rotator cuff - front"],
     "steps": [
       "Select an appropriate weight dumbbell and a stability ball.",
       "Sit on the stability ball and place the dumbbell on your lap.",
