@@ -6305,7 +6305,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "e3a5a4d0-ab87-478f-8da6-12c2898ce1b5",
     "name": "Seated Row \u2013 Cable",
     "slug": "seated-row-cable",
     "primaryMuscles": ["lat", "lower back"],
@@ -6320,7 +6320,7 @@
     "notes": "Don't lower weight beyond mild stretch."
   },
   {
-    "pk": "",
+    "pk": "c687c6ce-81be-4f96-a0f4-8b77bcb6228d",
     "name": "Standing Rear Delt Row \u2013 Cable",
     "slug": "standing-rear-delt-row-cable",
     "primaryMuscles": ["shoulder - back"],
@@ -6336,7 +6336,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "c4b7e804-3293-4d3f-a012-8efc611e7260",
     "name": "One-Hand Incline Tricep Extension \u2013 Dumbbell",
     "slug": "one-hand-incline-tricep-extension-dumbbell",
     "primaryMuscles": ["tricep"],
@@ -6351,7 +6351,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "ae5eb597-f426-4369-a787-31b2666d240b",
     "name": "Preacher Curl \u2013 Machine",
     "slug": "preacher-curl-machine",
     "primaryMuscles": ["bicep"],
@@ -6368,7 +6368,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "5a687e08-f2f7-4ff2-888d-5720342ee373",
     "name": "Seated Dip \u2013 Machine",
     "slug": "seated-dip-machine",
     "primaryMuscles": ["chest"],
@@ -6383,7 +6383,7 @@
     "notes": "Avoid 'shrugging' your shoulders toward your ears during the upward phase."  
   },
   {
-    "pk": "",
+    "pk": "95a6b9b5-b2a5-43d2-8102-c9c966b11bb5",
     "name": "Incline Chest Press \u2013 Machine",
     "slug": "incline-chest-press-machine",
     "primaryMuscles": ["chest"],
@@ -6398,7 +6398,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "e257faf5-d027-42a7-9b41-e2cf8ada6dc6",
     "name": "Pull-Up \u2013 Machine",
     "slug": "pull-up-machine",
     "primaryMuscles": ["lat"],
@@ -6413,7 +6413,7 @@
     "notes": "Adjust the weight assistance on the machine as needed to ensure proper form and control throughout the exercise."
   },
   {
-    "pk": "",
+    "pk": "99a6f1f0-a8c7-4317-9113-a570f3a2c966",
     "name": "Reverse Wrist Curl \u2013 Dumbbell",
     "slug": "reverse-wrist-curl-dumbbell",
     "primaryMuscles": ["forearm - outer"],
@@ -6427,7 +6427,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "160c14ff-7590-4c96-bff7-64aa013d4766",
     "name": "Dip \u2013 Machine",
     "slug": "dip-machine",
     "primaryMuscles": ["chest"],
@@ -6443,7 +6443,7 @@
     "notes": "Adjust the weight assistance on the machine as needed to ensure proper form and control throughout the exercise."
   },
   {
-    "pk": "",
+    "pk": "bb038ee7-6a9c-413d-a1a8-10dcb1c8f2ca",
     "name": "Standing Incline Chest Fly \u2013 Cable",
     "slug": "standing-incline-chest-fly-cable",
     "primaryMuscles": ["chest"],
@@ -6459,7 +6459,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "db9e67ea-cc9a-4641-b72c-f115419e9eaf",
     "name": "One-Arm Curl \u2013 Cable",
     "slug": "one-arm-curl-cable",
     "primaryMuscles": ["bicep"],
@@ -6473,7 +6473,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "bdba0072-35ac-42bb-9d65-f1410a630673",
     "name": "Single-Leg Calf Raise",
     "slug": "single-leg-calf-raise",
     "primaryMuscles": ["calf"],
@@ -6490,7 +6490,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "50c010b1-965d-4082-8c36-1e4e3e05db71",
     "name": "Calf Raise \u2013 Dumbbell",
     "slug": "calf-raise-dumbbell",
     "primaryMuscles": ["calf"],
@@ -6508,7 +6508,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "3d8b90ce-faa0-427d-9485-9a6b6bce130e",
     "name": "Walking Lunge \u2013 Dumbbell",
     "slug": "walking-lunge-dumbbell",
     "primaryMuscles": ["glute", "quad", "thigh - inner"],
@@ -6523,7 +6523,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "1137b9ad-716a-4cf0-a180-3d9cea472646",
     "name": "Overhead Press \u2013 Barbell",
     "slug": "overhead-press-barbell",
     "primaryMuscles": ["shoulder - front"],
@@ -6537,7 +6537,7 @@
     "notes": "By returning your head to a neutral position after the bar passes your forehead, you avoid unnecessary strain on your arms and shoulders."
   },
   {
-    "pk": "",
+    "pk": "89644403-33e3-4296-96ef-730c3ad2f3f6",
     "name": "Straight Leg Deadlift \u2013 Cable",
     "slug": "straight-leg-deadlift-cable",
     "primaryMuscles": ["lower back", "hamstring"],
@@ -6552,7 +6552,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "f2ac6cbb-e449-4640-9dd1-1eb763a0b782",
     "name": "Feet-Elevated Oblique Crunch \u2013 Bench",
     "slug": "feet-elevated-oblique-crunch-bench",
     "primaryMuscles": ["oblique"],
@@ -6568,7 +6568,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "a364cd0f-01d5-45d9-966c-ede1abc3fd0a",
     "name": "Seated Twist \u2013 Machine",
     "slug": "seated-twist-machine",
     "primaryMuscles": ["oblique"],
@@ -6582,7 +6582,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "dc5cc956-60c0-47c4-9e91-68910d51d717",
     "name": "One-Handed Chest Press \u2013 Cable",
     "slug": "one-handed-chest-press-cable",
     "primaryMuscles": ["chest"],
@@ -6598,7 +6598,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "54c4867f-9bb0-4427-a5e1-10e58a72a23f",
     "name": "Reverse Fly \u2013 Cable",
     "slug": "reverse-fly-cable",
     "primaryMuscles": ["shoulder - back"],
@@ -6613,7 +6613,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "67a205ee-7632-4456-9bc4-3d0380d4679e",
     "name": "Single-Leg Leg Press \u2013 Machine",
     "slug": "single-leg-leg-press-machine",
     "primaryMuscles": ["quad", "glute"],
@@ -6628,7 +6628,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "012f37ac-8cc3-49ae-a82d-03de88dab697",
     "name": "Seated High Row \u2013 Machine",
     "slug": "seated-high-row-machine",
     "primaryMuscles": ["lat", "lower back"],
@@ -6643,7 +6643,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "c95c9665-9d69-4977-aae4-e6af8f616e97",
     "name": "Upright Row \u2013 Cable",
     "slug": "upright-row-cable",
     "primaryMuscles": ["shoulder - side"],
@@ -6660,7 +6660,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "6329a33c-29c4-4f02-b482-df0878d4e8a5",
     "name": "One-Arm Lateral Raise \u2013 Cable",
     "slug": "one-arm-lateral-raise-cable",
     "primaryMuscles": ["shoulder - side"],
@@ -6674,7 +6674,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "38f41814-508f-4052-b522-59e7a35b4e5f",
     "name": "Tricep Kickback \u2013 Dumbbell",
     "slug": "tricep-kickback-dumbbell",
     "primaryMuscles": ["tricep"],
@@ -6689,7 +6689,7 @@
     "notes": ""
   },
   {
-    "pk": "",
+    "pk": "a2ff75c3-24c3-4269-8b0c-f35192256235",
     "name": "Bent-Over Tricep Extension \u2013 Cable",
     "slug": "bent-over-tricep-extension-cable",
     "primaryMuscles": ["tricep"],
