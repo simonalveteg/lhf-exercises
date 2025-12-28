@@ -6704,5 +6704,19 @@
       "Repeat for the desired number of repetitions, switching lead leg as needed for balance."
     ],
     "notes": ""
+  },
+
+  {
+    "pk": "bc4d2677-0930-4f59-8538-58789a27de95",
+    "name": "Back Extension \u2013 Machine",
+    "slug": "back-extension-machine",
+    "primaryMuscles": ["lower back"],
+    "secondaryMuscles": [],
+    "steps": [
+      "Sit down on the machine with your feet on the footrest and back against the pad.",
+      "Extend your spine until your back is straight without arching past your natural range.",
+      "Slowly return to starting position and repeat for the desired number of repetitions."
+    ],
+    "notes": "Different machines vary in pad placement and starting angle. Follow the instructions on your specific equipment."
   }
 ]
