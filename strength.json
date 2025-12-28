@@ -6474,8 +6474,8 @@
   },
   {
     "pk": "bdba0072-35ac-42bb-9d65-f1410a630673",
-    "name": "Single-Leg Calf Raise",
-    "slug": "single-leg-calf-raise",
+    "name": "Single-Leg Calf Raise \u2013 Dumbbell",
+    "slug": "single-leg-calf-raise-dumbbell",
     "primaryMuscles": ["calf"],
     "secondaryMuscles": [],
     "steps": [
@@ -6496,13 +6496,11 @@
     "primaryMuscles": ["calf"],
     "secondaryMuscles": [],
     "steps": [
-      "Find a raised platform or step to stand on.",
-      "Place yourself with the step in front of you and the barbell behind you. Stand with your feet shoulder-width apart, toes pointing forward.",
-      "Perform a Hack Squat to lift and hold the barbell behind your glutes.",
-      "Step onto the platform or step with the balls of your feet, leaving your heels hanging off the edge. Your feet should be parallel to each other. This is your starting position.",
-      "Slowly rise up on the balls of your feet, lifting your heels off the ground.",
+      "Stand on the edge of a raised platform with your feet parallel to each other, allowing your heels to hang off the edge.",
+      "Lower your heels toward the floor until you feel a deep stretch in the calf muscles.",
+      "Press through the balls of your feet to raise your heels as high as possible, reaching a full contraction at the top.",
       "Hold the raised position for a moment, feeling the contraction in your calf muscles.",
-      "Lower your heels back down to the starting position in a controlled manner.",
+      "Lower your heels back down in a controlled manner.",
       "Repeat the movement for the desired number of repetitions."
     ],
     "notes": ""
